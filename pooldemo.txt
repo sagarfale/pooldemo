@@ -1,0 +1,6 @@
+{
+"name": "sfalePool",
+"description": "Sagar Fale testing pool",
+"ticker": "SFALE",
+"homepage": "https://teststakepool.com"
+}
